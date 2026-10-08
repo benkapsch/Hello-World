@@ -1,4 +1,4 @@
-## Career and Employer Research Project
+# Career and Employer Research Project
 
 ## Description
 
